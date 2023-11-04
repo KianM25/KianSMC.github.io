@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!-- saved from url=(0059)file:///Users/marckianmercado/Downloads/Kian%20Mercado.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Kian Mercado</title>
+</head>
+
+<body>
+    <h1>Webpage HW</h1>
+    <br>
+    <p>My name is Kian Mercado.</p>
+
+    <p>I am a student at Saint Mary's College of California. I love to play basketball and also like to watch NFL and NBA.</p>
+
+    <p>I am currently a computer science major and a 2nd-year student in college.</p>
+
+   <img src="IMG_0377 2.JPG" width="400px" height="auto" alt="Kian's Image">
+
+    <p>Hobbies:</p>
+    <ul>
+        <li>Basketball</li>
+    </ul>
+
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 60%;
+      margin: 20px auto;
+    }
+    th, td {
+      border: 1px solid #000;
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+
+
+  <h1>Class Schedule</h1>
+  <table>
+    <tbody><tr>
+      <th>Day</th>
+      <th>Class</th>
+      <th>Time</th>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>Math</td>
+      <td>9:15 AM - 10:20 AM</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>Seminar</td>
+      <td>3:20 PM - 4:35 PM</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>Math Lab</td>
+      <td>9:50 AM - 10:45 AM</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>Computer Science</td>
+      <td>11:45 AM - 12:55 PM</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>Art</td>
+      <td>1:30 PM - 3:10 PM</td>
+    </tr>
+  </tbody></table>
+
+</body></html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: lightgreen;
+    }
+  </style>
+</head>
+<body>
+  <!-- Your content goes here -->
+</body>
+</html>
